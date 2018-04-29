@@ -17,4 +17,4 @@ Added mutators:
 
 -mutator notes+tests contains basic test cases for each of the added mutators (to show that they're working, these don't test every function of each mutator)
 
-use AUGMENTED mutators option in pom.xml file to run added mutators
+use AUGMENTED mutators option in pom.xml file to run added mutators (see readme.txt for more details, .md file doesn't show xml properly)
