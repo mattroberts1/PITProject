@@ -18,7 +18,7 @@ Added mutators:
 -mutator notes+tests contains basic test cases for each of the added mutators (to show that they're working, these don't test every function of each mutator)
 
 
-To run the added mutators on a program, add this to the pom.xml file.  
+To run the added mutators on a program, add this to the pom.xml file:  
 <plugin>
     <groupId>org.pitest</groupId>
     <artifactId>pitest-maven</artifactId>
